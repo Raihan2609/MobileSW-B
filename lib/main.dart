@@ -18,9 +18,11 @@ class MyApp extends StatelessWidget {
         fontFamily: 'Montserrat',
       ),
       debugShowCheckedModeBanner: false,
-      // home: const HomePage(),
+      home: const HomePage(),
       // home: const DetailBox(),
-      home: const HistoryScan(),
+      // home: const HistoryScan(),
     );
   }
 }
+
+//Azis Juliadi

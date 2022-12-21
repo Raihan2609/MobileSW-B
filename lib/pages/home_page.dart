@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:swbmobile/pages/home/delivery_view.dart';
+import 'package:swbmobile/pages/home/delivery/delivery_view.dart';
 import 'package:swbmobile/pages/home/home_view.dart';
-import 'package:swbmobile/pages/home/production_view.dart';
+import 'package:swbmobile/pages/home/production/production_view.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
